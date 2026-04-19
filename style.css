@@ -1,0 +1,73 @@
+/* Styling of Page*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+/* Header Style */
+header {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background-color: #6a0dad; /* This color is purple */
+}
+
+/* Main styling */
+main {
+    padding: 20px;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+/* Caption Style */
+caption {
+    font-size: 2cm;
+    font-weight: bold;
+    margin-bottom: 15px;
+
+}
+
+/* Table */
+th {
+    background-color: #9b59b6; /* This is a lighter purple */
+    padding: 12px;
+    text-align: left;
+    color: white;
+} 
+
+td {
+    border: 1px solid #ccc;
+    padding: 12px;
+}
+
+/* Hover styling */
+tr:hover {
+    background-color: #d8bff0;
+}
+
+/* Zebra row style */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Footer Style */
+footer {
+    background-color: #6a0dad;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    padding: 15px;
+}
+
+
+
+
+
+
